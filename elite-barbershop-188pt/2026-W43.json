@@ -1,0 +1,20 @@
+{
+  "cliente_id": "elite-barbershop",
+  "nome_ficha": "Elite Barbershop",
+  "slug": "elite-barbershop-188pt",
+  "semana_iso": "2026-W43",
+  "data_execucao": "2026-10-19T06:00:05.292-03:00",
+  "mapa_url": "https://wesleyramosa.github.io/ranking/elite-barbershop-188pt/",
+  "pagina_semana": "https://wesleyramosa.github.io/ranking/elite-barbershop-188pt/2026-W43.html",
+  "print_ok": true,
+  "print_path": "elite-barbershop-188pt/2026-W43.png",
+  "print_erro": "",
+  "kws": [
+    {
+      "palavra_chave": "barbearia",
+      "visibilidade_pct": 50,
+      "posicao_media": 10,
+      "pontos_top3": 14
+    }
+  ]
+}
