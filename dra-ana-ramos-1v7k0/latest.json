@@ -1,13 +1,13 @@
 {
   "cliente_id": "dra-ana-ramos",
-  "nome_ficha": "Escritório de Advocacia Dra. Ana Ramos",
+  "nome_ficha": "Escritório de Advocacia Dra. Ana Ramos | Advogada Especialista em Divórcio",
   "slug": "dra-ana-ramos-1v7k0",
-  "semana_iso": "2026-W42",
-  "data_execucao": "2026-10-12T06:00:05.112-03:00",
+  "semana_iso": "2026-W43",
+  "data_execucao": "2026-10-19T06:00:05.292-03:00",
   "mapa_url": "https://wesleyramosa.github.io/ranking/dra-ana-ramos-1v7k0/",
-  "pagina_semana": "https://wesleyramosa.github.io/ranking/dra-ana-ramos-1v7k0/2026-W42.html",
+  "pagina_semana": "https://wesleyramosa.github.io/ranking/dra-ana-ramos-1v7k0/2026-W43.html",
   "print_ok": true,
-  "print_path": "dra-ana-ramos-1v7k0/2026-W42.png",
+  "print_path": "dra-ana-ramos-1v7k0/2026-W43.png",
   "print_erro": "",
   "kws": [
     {
@@ -18,9 +18,9 @@
     },
     {
       "palavra_chave": "advogada",
-      "visibilidade_pct": 35,
+      "visibilidade_pct": 33,
       "posicao_media": 11,
-      "pontos_top3": 3
+      "pontos_top3": 2
     }
   ]
 }
