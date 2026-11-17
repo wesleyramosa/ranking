@@ -1,0 +1,26 @@
+{
+  "cliente_id": "jorro-plaza-hotel",
+  "nome_ficha": "Jorro Plaza Hotel",
+  "slug": "jorro-plaza-hotel-f2rgh",
+  "semana_iso": "2026-W47",
+  "data_execucao": "2026-11-17T08:05:42.309-03:00",
+  "mapa_url": "https://wesleyramosa.github.io/ranking/jorro-plaza-hotel-f2rgh/",
+  "pagina_semana": "https://wesleyramosa.github.io/ranking/jorro-plaza-hotel-f2rgh/2026-W47.html",
+  "print_ok": true,
+  "print_path": "jorro-plaza-hotel-f2rgh/2026-W47.png",
+  "print_erro": "",
+  "kws": [
+    {
+      "palavra_chave": "hotel",
+      "visibilidade_pct": 71,
+      "posicao_media": 5.8,
+      "pontos_top3": 18
+    },
+    {
+      "palavra_chave": "pousada",
+      "visibilidade_pct": 22,
+      "posicao_media": 11.2,
+      "pontos_top3": 0
+    }
+  ]
+}
